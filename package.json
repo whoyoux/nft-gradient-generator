@@ -1,0 +1,14 @@
+{
+    "name": "nft-gradient-generator",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "author": "whoyoux",
+    "license": "ISC",
+    "dependencies": {
+        "canvas": "^2.9.0"
+    }
+}
